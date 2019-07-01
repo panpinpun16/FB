@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>facebook</label>
+	</settings>
+	<users>
+		<user>
+			<path>facebook.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>facebook.jcp</path>
+		</project>
+	</projects>
+</workspace>
